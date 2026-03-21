@@ -32,13 +32,13 @@ Benefits:
 
 ---
 
-### Smooth Scrolling Navigation
+## Smooth Scrolling Navigation
 
 Navigation links scroll smoothly to sections of the page instead of jumping instantly.
 
 ---
 
-### Sticky Navigation
+## Sticky Navigation
 
 The navigation bar becomes **sticky** when the user scrolls past the hero section.
 
@@ -49,13 +49,13 @@ This ensures:
 
 ---
 
-### Section Reveal on Scroll
+## Section Reveal on Scroll
 
 Sections remain hidden until they appear in the viewport, creating a **smooth reveal animation**.
 
 ---
 
-### Image Slider / Testimonials
+## Image Slider / Testimonials
 
 The page contains a testimonial slider that displays reviews from satisfied users.
 
@@ -64,10 +64,11 @@ Features include:
 - Next and previous buttons
 - Dot navigation
 - Smooth sliding animations
+- keyboard support
 
 ---
 
-### Modern Minimalist UI
+## Modern Minimalist UI
 
 The design focuses on a **minimalist layout** with:
 
