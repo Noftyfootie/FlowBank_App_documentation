@@ -255,3 +255,5 @@ const slider = function () {
   });
 };
 slider();
+
+console.log('');
