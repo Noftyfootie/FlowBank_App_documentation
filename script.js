@@ -256,4 +256,5 @@ const slider = function () {
 };
 slider();
 
-console.log('');
+console.log('Hope');
+console.log('Hope');
